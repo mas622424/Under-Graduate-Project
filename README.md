@@ -62,7 +62,7 @@ This is the **minimal, essential version of the project**, included in the **Goo
 └── tk_gui.py                   # Main Tkinter GUI interface
 ```
 
-This is your **complete local development snapshot**, which includes virtual environments, test scripts, and alternate data/UX interfaces. It **won’t be part of the final submission**, but is documented here for clarity.
+This is my **complete local development snapshot**, which includes virtual environments, test scripts, and alternate data/UX interfaces. It **won’t be part of the final submission**, but is documented here for clarity.
 
 ---
 
